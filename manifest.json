@@ -1,0 +1,12 @@
+{
+  "chrome_url_overrides": {
+      "newtab": "empty_ntp.html"
+   },
+  "name": "Lift New Tab",
+  "version": "1.1",
+  "manifest_version": 2,
+  "description": "Embed Lift.do in new tabs",
+   "icons": {
+      "128": "icon.jpg"
+   }
+}
